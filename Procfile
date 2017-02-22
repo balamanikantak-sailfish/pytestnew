@@ -1,1 +1,1 @@
-web: python -m http.server --cgi
+web: python cgi-bin/test.py
